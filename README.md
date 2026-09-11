@@ -13,7 +13,7 @@
 </pre>
 
 # I'm Norberth Kibona 👋
-I am a Tanzanian full-stack software developer with experience in creating web and mobile applications. My passion is using my knowledge and abilities to enhance the lives and general well-being of the community.
+A full-stack software developer with experience in creating web and mobile applications. I'm dedicated to utilizing my knowledge and skills to enhance the lives and general well-being of the community.
 
 ## 💼 Bio
 - 👀 I’m interested in exploring new technologies <em>(AI/ML, Blockchain, Cloud Computing to mention a few).</em>
@@ -44,6 +44,7 @@ I am a Tanzanian full-stack software developer with experience in creating web a
 ## 📫 Let's Connect
 - **Email**: [nobertobrown@gmail.com](mailto:nobertobrown@gmail.com)
 - **LinkedIn**: [Norberth Kibona](https://www.linkedin.com/in/dadi-utenga-375135220/)
+- **Discord**: [Norberth Kibona](https://discord.com/users/1105248859711602829)
 
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
